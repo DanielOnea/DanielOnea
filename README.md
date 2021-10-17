@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanielOnea
-- 👀 I’m interested in Computer science and Technology
+- 👀 I’m interested in Computer Science and Technology
 - 🌱 I’m currently learning Frontend development technologies
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: Mail yahoo daniel_sudmail@yahoo.com
